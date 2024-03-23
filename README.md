@@ -1,6 +1,6 @@
 # The serve.sh CLI
 
-Welcome to the serve.sh CLI
+Welcome to the [serve.sh](https://serve.sh) CLI
 
 ## Installation
 
