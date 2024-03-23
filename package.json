@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "cli"
+    "cli",
+    "serve",
+    "serverless",
+    "hosting"
   ],
   "author": "Garry Dolley <npm@serve.sh> (https://serve.sh)",
   "license": "ISC",
