@@ -1,5 +1,5 @@
 {
-  "name": "serve",
+  "name": "serve-cli",
   "version": "0.0.1",
   "description": "serve.sh CLI",
   "main": "cli.js",
