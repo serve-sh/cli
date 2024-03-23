@@ -2,6 +2,7 @@
   "name": "@serve.sh/cli",
   "version": "0.0.3",
   "description": "The serve.sh CLI",
+  "homepage": "https://serve.sh",
   "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +14,10 @@
     "hosting"
   ],
   "author": "Garry Dolley <npm@serve.sh> (https://serve.sh)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serve-sh/cli"
+  },
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0"
