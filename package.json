@@ -10,5 +10,8 @@
     "cli"
   ],
   "author": "Garry Dolley <npm@serve.sh> (https://serve.sh)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
