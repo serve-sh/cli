@@ -17,6 +17,9 @@
     "type": "git",
     "url": "https://github.com/serve-sh/cli"
   },
+  "bugs": {
+    "url": "https://github.com/serve-sh/cli/issues"
+  },
   "bin": {
     "srv": "./cli.js"
   },
